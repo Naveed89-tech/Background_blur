@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Naveed89-tech/Background_slider)
-- Live Site URL: [Expense-Tracker](https://backgroundsliderappjavascript.netlify.app/)
+- Solution URL: [Github](https://github.com/Naveed89-tech/Background_blur)
+- Live Site URL: [Expense-Tracker](https://background-blurapp.netlify.app/)
 
 ## My process
 
