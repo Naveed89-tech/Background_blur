@@ -1,4 +1,4 @@
-# Background Slider
+# Background Blur
 
 This is a background image Blur effect, simply made with HTML,CSS and Vanilla Javascript.
 
